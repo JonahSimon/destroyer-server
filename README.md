@@ -29,8 +29,8 @@ address instead of reflecting each client's own connect address, for NAT/port-fo
 
 ## Tests
 
-`testclient.js`, `test_match.js`, `test_watch.js`, `test_lan.js` are headless protocol tests, no
-Flash/Shockwave client needed. Run the server first, then `node <test file>`.
+`test/testclient.js`, `test/test_match.js`, `test/test_watch.js`, `test/test_lan.js` are headless
+protocol tests, no Flash/Shockwave client needed. Run the server first, then `node test/<file>`.
 
 ## License
 
