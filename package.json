@@ -1,0 +1,9 @@
+{
+  "name": "destroyer-server",
+  "version": "1.0.0",
+  "description": "Destroyer multiplayer game server (Shockwave/Flash)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
